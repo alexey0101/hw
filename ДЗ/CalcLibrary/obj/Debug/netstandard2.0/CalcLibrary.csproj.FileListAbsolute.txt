@@ -1,0 +1,8 @@
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Алексей\Desktop\dz\ДЗ\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
