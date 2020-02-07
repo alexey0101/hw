@@ -71,6 +71,7 @@ namespace ДЗ
 
                     calc.ErrorNotification += ConsoleErrorHandler;
                     calc.ErrorNotification += ResultErrorHandler;
+
                     calc.CalculateExpressions(); //Вычисление выражений из файла expressions.txt
                     ValidationCheck(); //Проверка значений
                     Console.WriteLine("Значения выражений подсчитаны и проверены.");
